@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomMobs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomMobs_jar</output-path>
+    <root id="archive" name="CustomMobs.jar">
+      <element id="module-output" name="CustomMobs" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Spigot/Spigot-API/target/spigot-api-1.19.4-R0.1-SNAPSHOT-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

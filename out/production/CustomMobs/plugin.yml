@@ -1,0 +1,6 @@
+name: CustomMobs
+version: 1.0
+main: com.holland.custommobs.CustomMobs
+api-version: 1.19
+author: Alex
+description: Custom mobs plugin.
